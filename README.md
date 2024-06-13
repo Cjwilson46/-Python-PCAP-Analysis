@@ -1,4 +1,4 @@
-# Week-9-473
+
 This is the Ninth week of my violet python class
 This Python script processes PCAP (Packet Capture) files to extract and report network traffic information. It provides details on each unique connection and the ports observed in the data. This tool is useful for network analysis and cybersecurity purposes.
 Features
